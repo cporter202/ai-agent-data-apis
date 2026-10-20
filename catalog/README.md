@@ -311,7 +311,7 @@
 </details>
 
 <details>
-<summary><strong>📚 RAG, embeddings & knowledge bases (56)</strong> — click to expand</summary>
+<summary><strong>📚 RAG, embeddings & knowledge bases (57)</strong> — click to expand</summary>
 
 | API Name | Description |
 |----------|-------------|
@@ -372,10 +372,11 @@
 | [RAG Browser](https://apify.com/visita/rag-browser?fpr=p2hrc6) | This Actor provides essential web browsing and content extraction functionality for AI Agents, LLM applications, and Retrieval-Augmented Generation (RAG) pipelines. It functions similarly to the web... |
 | [Website Content Crawler Pro](https://apify.com/datascoutapi/website-content-crawler-pro?fpr=p2hrc6) | Crawl websites and extract clean, structured content in Markdown, JSON, or plain text for AI models, LLMs, vector DBs, or RAG pipelines. Fast, reliable, and stealthy, with bulk processing, advanced... |
 
+| [RAG Web Dataset Builder](https://apimesa.com) | Crawl public pages, remove navigation noise, split readable content into overlapping chunks, and attach source metadata for retrieval systems. |
 </details>
 
 <details>
-<summary><strong>🌐 Live web data for agents (496)</strong> — click to expand</summary>
+<summary><strong>🌐 Live web data for agents (497)</strong> — click to expand</summary>
 
 | API Name | Description |
 |----------|-------------|
@@ -876,6 +877,7 @@
 | [X (Twitter) Tweet Scraper &#124; Search, Hashtags & Profiles](https://apify.com/khadinakbar/x-tweet-scraper?fpr=p2hrc6) | Scrape tweets from X.com (Twitter) by search query, hashtag, username, or URL. Returns tweet text, engagement metrics, author info, media, and more $3.00/1K. |
 | [Youtube Link Hunter: Bulk Website To Youtube Mapper](https://apify.com/6sigmag/youtube-link-hunter-bulk-website-to-youtube-mapper?fpr=p2hrc6) | Transform website URLs into valuable Youtube Link in bulk. Automatically extract domains and find associated Youtube accounts for powerful lead generation, competitor analysis, and market research.... |
 
+| [AI Webpage Extractor](https://apimesa.com) | Extract structured information from a public webpage using your instructions. Returns null values for information the page does not contain. |
 </details>
 
 <details>
@@ -1254,7 +1256,7 @@
 </details>
 
 <details>
-<summary><strong>🗂️ Everything else AI (869)</strong> — click to expand</summary>
+<summary><strong>🗂️ Everything else AI (877)</strong> — click to expand</summary>
 
 | API Name | Description |
 |----------|-------------|
@@ -2128,4 +2130,12 @@
 | [Website Contact Extractor - Emails & Phones](https://apify.com/harvestlab/contact-extractor?fpr=p2hrc6) | Website contact extractor and contact details extractor for B2B lead lists and CRM enrichment. Extract emails, phones, social profiles, addresses, contact pages, tech signals, email verification,... |
 | [YouTube Channel Email Scraper — Emails, Phones & Socials](https://apify.com/khadinakbar/youtube-channel-email-extractor?fpr=p2hrc6) | YouTube channel email scraper. Extracts emails, phones, Instagram, TikTok, Twitter & 4 more socials by niche or URL. Follows Linktree & websites. No login. |
 
+| [OpenAPI Validate API](https://apimesa.com) | Validate core OpenAPI JSON structure and count paths and operations for agent/tool integration checks. |
+| [JSON Schema Infer API](https://apimesa.com) | Infer a practical JSON Schema from a sample API response or payload. |
+| [JSON Schema Validate API](https://apimesa.com) | Validate JSON data against a lightweight subset of JSON Schema including type, required, properties, arrays, enums, and ranges. |
+| [cURL to Fetch API](https://apimesa.com) | Convert a simple cURL command into JavaScript fetch code for docs, agents, and SDK bootstrapping. |
+| [cURL to Python API](https://apimesa.com) | Convert a simple cURL command into Python requests code for examples and automation scripts. |
+| [Webhook Replay Payload API](https://apimesa.com) | Generate a replayable webhook cURL command with optional timestamped HMAC signature headers. |
+| [API Response Shape API](https://apimesa.com) | Summarize JSON response structure into fields, paths, types, and an inferred schema for agents and docs. |
+| [Env Var Template API](https://apimesa.com) | Generate .env.example content and a Markdown environment variable table from variable names or NAME=value lines. |
 </details>
